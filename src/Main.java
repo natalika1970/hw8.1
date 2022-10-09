@@ -38,6 +38,6 @@ import java.time.LocalDate;
          else if (deliveryDistance > 20 && deliveryDistance <= 40) {
              return 2;
          }
-             return 3;
+                return 3;
      }
  }
